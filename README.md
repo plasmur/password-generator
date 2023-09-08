@@ -13,6 +13,6 @@ python.exe .\password-generator.py -n 3 -l 2 -u 4 -s 5 -t 12 -a 4 -o hasil-passw
 
 agparse untuk menunjukan tata cara penggunaan program ini di terminal
 
-## git dan github
+## Perbedaan git dan github
 git adalah alat yang digunakan unutk menegelola perubahan kode sumber kita, 
 github adalah platform di mana repositori Git dapat di-host dan kolaborasi dengan orang lain bisa dilakukan
