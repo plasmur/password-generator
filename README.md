@@ -16,3 +16,17 @@ agparse untuk menunjukan tata cara penggunaan program ini di terminal
 ## Perbedaan git dan github
 git adalah alat yang digunakan unutk menegelola perubahan kode sumber kita, 
 github adalah platform di mana repositori Git dapat di-host dan kolaborasi dengan orang lain bisa dilakukan
+
+## Tutorial Git
+
+- Sebelum kita tracking :
+
+  1. ```$ git init ```
+  2. ```$ git add . ```
+  3. ```$ git commit -m "catatan kamu" ```
+
+- Setelah kita Modified : 
+
+  0. ini untuk lihat status yg sudah dirubah  ```$ git status```
+  1. ```$ git add . ```
+  2. ```$ git commit -m "catatan setelah dirubah" ```
